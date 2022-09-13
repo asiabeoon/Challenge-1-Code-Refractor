@@ -16,7 +16,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-<img src= "C:\Users\AsiaisAsia\workspace\Challenge-1-Code-Refractor\assets\images-screenshots\Screenshot 2022-09-12 175240.png" alt= "Screenshot" width="42" height="42" style="vertical-align:bottom">
+<img src="./assets/images-screenshots/.png" alt= "Screenshot" width="42" height="42" style="vertical-align:bottom">
 
 ## Credits
 
